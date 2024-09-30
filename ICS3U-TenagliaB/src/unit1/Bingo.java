@@ -6,6 +6,11 @@ package unit1;
  */
 public class Bingo {
 
+	/**
+	 * Entry point to the program
+	 * @param args unused
+	 */
+	
 	public static void main(String[] args) {
 		//This prints the Bingo Rules
 		System.out.println("Bingo Card");

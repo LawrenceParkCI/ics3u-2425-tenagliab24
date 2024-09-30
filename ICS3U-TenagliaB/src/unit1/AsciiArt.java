@@ -5,7 +5,12 @@ package unit1;
  * @author Ben Tenaglia
  */
 public class AsciiArt {
-
+	
+/**
+ * Entry point to the program
+ * @param args unused
+ */
+	
 	public static void main(String[] args) {
 		//This code prints my name in ascii text
 		System.out.println("   ____  U _____ u _   _          _____  U _____ u _   _       _       ____     _                    _      ");
