@@ -12,6 +12,7 @@ public class AsciiArt {
  */
 	
 	public static void main(String[] args) {
+		
 		//This code prints my name in ascii text
 		System.out.println("   ____  U _____ u _   _          _____  U _____ u _   _       _       ____     _                    _      ");
 		System.out.println("U | __\")u\\| ___\"|/| \\ |\"|        |_ \" _| \\| ___\"|/| \\ |\"|  U  /\"\\  uU /\"___|u  |\"|        ___    U  /\"\\  u  ");
@@ -20,6 +21,7 @@ public class AsciiArt {
 		System.out.println("  |____/  |_____| |_| \\_|        u |_|U   |_____| |_| \\_|  /_/   \\_\\  \\____|   |_____|  U/| |\\u  /_/   \\_\\  ");
 		System.out.println(" _|| \\\\_  <<   >> ||   \\\\,-.     _// \\\\_  <<   >> ||   \\\\,-.\\\\    >>  _)(|_    //  \\\\.-,_|___|_,-.\\\\    >>  ");
 		System.out.println("(__) (__)(__) (__)(_\")  (_/     (__) (__)(__) (__)(_\")  (_/(__)  (__)(__)__)  (_\")(\"_)\\_)-' '-(_/(__)  (__) ");
+		
 		//prints a person waving in ascii art
 		System.out.println("\n\n\n         @@@      @@@@#                 ");
 		System.out.println("         @@@@   @@@@@@@@@               ");

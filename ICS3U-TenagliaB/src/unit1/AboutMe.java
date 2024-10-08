@@ -13,6 +13,7 @@ public class AboutMe {
 	 */
 	
 	public static void main(String[] args) {
+		
 		//this prints the text to the console
 		System.out.println("-----------------------------------------------------------------------------------------");
 		System.out.println("About me!\t\t\t\t\t\t\t\t\t\t|\n");
