@@ -13,7 +13,7 @@ public class StringManipulation {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
-		//title
+		//Title
 		System.out.println("STRING MANIPULATION!");
 		
 		//declare the variable
@@ -25,7 +25,7 @@ public class StringManipulation {
 		//scan the input
 		userInput = sc.nextLine();
 		
-		
+		//declare variables for the first and last words
 		int firstWord = userInput.indexOf(" ");
 		int lastWord = userInput.lastIndexOf(" ");
 		
