@@ -37,7 +37,7 @@ public class Carpet {
 		int carpetCost = (roomLength * roomWidth * costPerMeter);
 		
 		//print the output
-		System.out.println("Your carpet will cost you: $" + carpetCost);
+		System.out.println("In total, your carpet will cost you: $" + carpetCost);
 		
 		sc.close();
 	}
