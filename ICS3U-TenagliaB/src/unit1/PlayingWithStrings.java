@@ -1,6 +1,11 @@
 package unit1;
 
 public class PlayingWithStrings {
+	
+	 /**
+	  * This is the entry point to the program.
+	  * @param args unused
+	  */
 
 	public static void main(String[] args) {
 		String msg = "I am enjoying this class.";

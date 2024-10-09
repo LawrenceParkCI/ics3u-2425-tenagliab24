@@ -6,6 +6,11 @@ package unit1;
  */
 public class HelloWorld {
 	
+	 /**
+	  * This is the entry point to the program.
+	  * @param args unused
+	  */
+	
 	public static void main(String[] args) {
 		//this prints text to the console
 		System.out.println("Hello world.");

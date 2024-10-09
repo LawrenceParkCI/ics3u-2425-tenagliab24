@@ -8,6 +8,11 @@ package unit1;
 
 import java.util.Scanner;
 
+/**
+ * This is the entry point to the program.
+ * @param args unused
+ */
+
 public class Alive {
 
 	public static void main(String[] args) {
@@ -41,6 +46,7 @@ public class Alive {
 		System.out.println("\nYou have been alive for " + daysAlive + " days.");
 		System.out.println("\nYou have slept for " + daysSlept + " days.");
 		
+		sc.close();
 	}
 
 }

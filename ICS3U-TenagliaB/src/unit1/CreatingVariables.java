@@ -6,9 +6,10 @@ package unit1;
  * @author Benjamin Tenaglia
  */
 public class CreatingVariables {
-	/**
-	 * @param args unused
-	 */
+	 /**
+	  * This is the entry point to the program.
+	  * @param args unused
+	  */
 	public static void main(String[] args) {
 		System.out.println("Warm-up");
 		//Warmup: print your name

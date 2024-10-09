@@ -6,6 +6,11 @@ package unit1;
  */
 import java.util.Scanner;
 
+/**
+ * This is the entry point to the program.
+ * @param args unused
+ */
+
 public class InputChars {
 
 	public static void main(String[] args) {
@@ -27,6 +32,7 @@ public class InputChars {
 		System.out.println();
 		System.out.print("Together these 3 letters spell: " + (ch1 + ch2 + ch3));
 		
+		sc.close();
 	}
 
 }

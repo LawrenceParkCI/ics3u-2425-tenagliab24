@@ -38,6 +38,7 @@ public class StringManipulation {
 		System.out.println("The first word is: " + userInput.substring(0,firstWord));
 		System.out.println("The last word is:" + userInput.substring(lastWord));
 		
+		sc.close();
 	}
 
 }

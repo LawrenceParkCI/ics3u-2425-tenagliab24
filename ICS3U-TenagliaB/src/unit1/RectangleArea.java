@@ -7,6 +7,11 @@ package unit1;
 import java.util.Scanner;
 
 public class RectangleArea {
+	
+	 /**
+	  * This is the entry point to the program.
+	  * @param args unused
+	  */
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
