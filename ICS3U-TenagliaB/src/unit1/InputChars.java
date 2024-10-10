@@ -1,6 +1,6 @@
 package unit1;
 /**
- * Description: Character variables worksheet
+ * Description: Character variables worksheet <p>
  * Date: October 3, 2024
  * @author Ben Tenaglia
  */

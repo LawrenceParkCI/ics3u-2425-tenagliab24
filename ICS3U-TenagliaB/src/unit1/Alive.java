@@ -1,7 +1,7 @@
 package unit1;
 
 /**
- * Description: Completing the Alive assignment 2
+ * Description: Completing the Alive assignment 2 <p>
  * Date: October 8, 2024
  * @author Ben Tenaglia
  */

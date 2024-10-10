@@ -1,7 +1,7 @@
 package unit1;
 
 /**
- * Description: Completing the carpet assignment from assignment 2
+ * Description: Completing the carpet assignment from assignment 2 <p>
  * Date: Oct 9, 2024
  * @author Ben Tenaglia
  */

@@ -1,7 +1,7 @@
 package unit1;
 
 /**
- * Description: Completing the String Manipulation assignment
+ * Description: Completing the String Manipulation assignment <p>
  * Date: Oct 8, 2024
  * @author Ben Tenaglia
  */

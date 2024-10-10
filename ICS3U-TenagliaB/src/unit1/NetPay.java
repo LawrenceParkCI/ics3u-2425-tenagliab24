@@ -1,7 +1,7 @@
 package unit1;
 
 /**
- * Description: Completing the NetPay assignment 2
+ * Description: Completing the NetPay assignment 2 <p>
  * Date: October 7, 2024
  * @author Ben Tenaglia
  */
