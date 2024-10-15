@@ -6,10 +6,10 @@ package unit1;
  * @author Benjamin Tenaglia
  */
 public class CreatingVariables {
-	 /**
-	  * This is the entry point to the program.
-	  * @param args unused
-	  */
+	/**
+	 * This is the entry point to the program.
+	 * @param args unused
+	 */
 	public static void main(String[] args) {
 		System.out.println("Warm-up");
 		//Warmup: print your name
@@ -78,13 +78,13 @@ public class CreatingVariables {
 		System.out.println("My age is: "+ myAge);
 
 		//Assign it a new value, that is 10 more than the original value
-		
+
 		myAge = myAge + 10;
 
 		//Print it out in a new sentence (Hint: remember how we combined text and numbers in a print statement)
-	
+
 		System.out.println("My new age is "+ myAge);
-		
+
 		//Note: When I use the word create in the future, I typically mean declare and initialize
 	}
 }

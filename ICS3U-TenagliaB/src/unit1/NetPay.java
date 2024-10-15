@@ -7,11 +7,11 @@ package unit1;
  */
 
 public class NetPay {
-	
-	 /**
-	  * This is the entry point to the program.
-	  * @param args unused
-	  */
+
+	/**
+	 * This is the entry point to the program.
+	 * @param args unused
+	 */
 
 	public static void main(String[] args) {
 
@@ -20,10 +20,10 @@ public class NetPay {
 		double wage = 5.00;
 		double insurance = 2.00;
 		double tax = 0.22;
-		
+
 		//calculate the net pay
 		double netPay = (hours*wage-insurance) - tax*(hours*wage-insurance);
-		
+
 		//print the output
 		System.out.println("Your Net Pay is: " + netPay);
 	}

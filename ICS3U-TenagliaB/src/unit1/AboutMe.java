@@ -11,9 +11,9 @@ public class AboutMe {
 	 * Entry point to the program
 	 * @param args unused
 	 */
-	
+
 	public static void main(String[] args) {
-		
+
 		//this prints the text to the console
 		System.out.println("-----------------------------------------------------------------------------------------");
 		System.out.println("About me!\t\t\t\t\t\t\t\t\t\t|\n");

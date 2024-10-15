@@ -9,17 +9,17 @@ import java.util.Scanner;
  */
 public class InputFP {
 
-	 /**
-	  * This is the entry point to the program.
-	  * @param args unused
-	  */
-	
+	/**
+	 * This is the entry point to the program.
+	 * @param args unused
+	 */
+
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 
 		//user input
 		System.out.println("Input a Floating-Point value and press <Enter>");
-		
+
 		//declares variables
 		double num1, num2;
 		num1 = sc.nextDouble();
