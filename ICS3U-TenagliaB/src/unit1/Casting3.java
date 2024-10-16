@@ -64,13 +64,9 @@ public class Casting3 {
 		System.out.println(strNum2 + " x 2 = " + (myNum2 + myNum2));
 
 		//Similarly, test out the code and write down what instructions
-
+		
 		System.out.println(myNum2);
 		
-		/*
-		 * 
-		 */
-
 		//When do you think it might be necessary to change a string value into an integer value/double value?
 
 		/*
