@@ -79,7 +79,8 @@ public class DFOutput {
   //Run the program again with the cost of 123456, how is the output different? Explain what is happening.
   
   /*
-   * It outputs "$139,505.28" now it has added commas to the number. This happens because the format added commas to put the numbers in between them.
+   * It outputs "$139,505.28" now it has added commas to the number. 
+   * This happens because the format added commas to put the numbers in between them.
    */
   
   //Uncomment the following print line, and run the program with any value for the cost.
@@ -88,11 +89,16 @@ public class DFOutput {
   System.out.println("The tax rate is " + TAX_RATE);
   
   /*
-   * I inputted 10, and the tax rate was still "0.13", but this will always be the tax rate no matter what number is inputted.
+   * I inputted 10, and the tax rate was still "0.13", but this 
+   * will always be the tax rate no matter what number is inputted.
    */
   
   //Change the above print statement to format the TAX_RATE using the percent DecimalFormat instance.
   //Run the program again with any cost, how is the TAX_RATE displayed differently?
+  
+  /*
+   * It outputs 13% everytime you 
+   */
 
   sc.close();
  }
