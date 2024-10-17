@@ -97,7 +97,7 @@ public class DFOutput {
   //Run the program again with any cost, how is the TAX_RATE displayed differently?
   
   /*
-   * It outputs 13% everytime you 
+   * It outputs 13% for the cost + tax no matter what number is inputted
    */
 
   sc.close();

@@ -1,10 +1,21 @@
 package unit1;
 
+/**
+ * Description: Number format output worksheet
+ * Date: Oct 17, 2024
+ * @author Ben Tenaglia
+ */
+
 import java.text.NumberFormat;
 import java.util.Scanner;
 
 public class NFOutput {
 
+	/**
+	 * Entry point to the program
+	 * @param args unused
+	 */
+	
  public static void main(String[] args) {
   Scanner sc = new Scanner(System.in);
   final double TAX_RATE = 0.13;
@@ -21,18 +32,17 @@ public class NFOutput {
   //How can you change how your value is displayed?
   
   /*
-   * You can't change how it is displayed becuase NumberFormat is not 
+   * You can't change how it is displayed because NumberFormat is not 
    * customizable like DecimalFormat, and it has presets to choose from instead.
    */
   
   //What other formats does NumberFormat offer?
   /*
-   * NumberFormat.getNumberInstance();
-   * NumberFormat.getCurrencyInstance();
-   * NumberFormat.getCompactNumberInstance();
+   * NumberFormat.getNumberInstance(); - Returns the NumberFormat instance for general-purpose number formatting
+   * NumberFormat.getCurrencyInstance(); - Returns the NumberFormat instance for currency formatting
+   * NumberFormat.getCompactNumberInstance(); - Returns a NumberFormat instance for compact number formatting
    */
   
-
   sc.close();
  }
 
