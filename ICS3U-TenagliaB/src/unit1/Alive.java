@@ -40,11 +40,11 @@ public class Alive {
 
 		//calculate the answer
 		int daysAlive = (((todayYear - birthYear) * 365) + ((todayMonth - birthMonth) * 30) + (todayDay - birthDay));
-		int daysSlept = daysAlive*8;
+		int daysSlept = daysAlive * 8;
 
 		//print the output
 		System.out.println("\nYou have been alive for " + daysAlive + " days.");
-		System.out.println("\nYou have slept for " + daysSlept + " days.");
+		System.out.println("\nYou have slept for " + daysSlept + " hours.");
 
 		sc.close();
 	}
