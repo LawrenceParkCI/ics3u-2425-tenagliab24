@@ -30,6 +30,7 @@ public class OddEven {
 			System.out.println("Your number is odd");
 		}
 		
+		sc.close();
 	}
 
 }
