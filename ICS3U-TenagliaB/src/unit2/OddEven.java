@@ -18,11 +18,14 @@ public class OddEven {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
+		//declaring the variable
 		int number;
 		
+		//getting user input
 		System.out.println("Input any integer and press <Enter>");
 		number = sc.nextInt();
 		
+		// computer output
 		if (number%2 == 0) {
 			System.out.println("Your number is even.");
 		}
