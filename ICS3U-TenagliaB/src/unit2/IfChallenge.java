@@ -3,7 +3,7 @@ package unit2;
 import java.util.Scanner;
 
 /**
-* Description: IF challenge worksheet
+* Description: If challenge worksheet <p>
 * Date: November 5, 2024
 * @author Ben Tenaglia
 */
@@ -12,11 +12,14 @@ public class IfChallenge {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
 
+    //Declares the variable for the user's favourite number
     int favNum;
     
+    //asks for the input
     System.out.println("What is your favourite number?");
     favNum = sc.nextInt();
     
+    //If statements to calculate the output, and print it out
     if (favNum < 0) {
     	System.out.println("Look on the bright side!");
     }

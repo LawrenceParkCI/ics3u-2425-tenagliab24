@@ -1,16 +1,19 @@
 package unit2;
 
 /**
-* Description: If statements worksheet
+* Description: If statements worksheet <p>
 * Date: November 5, 2024
 * @author Ben Tenaglia
 */
 
 public class IfStatements1 {
   public static void main(String[] args) {
+	  
+	//declares two variables and assigns a value to each
     int firstNum = 10;
     int secondNum = 30;
 
+    //
     System.out.println("Part 1: If");
     System.out.println("----------");
     if (firstNum > secondNum) {

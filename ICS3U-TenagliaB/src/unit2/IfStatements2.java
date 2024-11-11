@@ -3,16 +3,19 @@ package unit2;
 import java.util.Scanner;
 
 /**
-* Description:
-* Date:
-* @author
+* Description: If statements Worksheet <p>
+* Date: November 11, 2024
+* @author Ben Tenaglia
 */
 
 public class IfStatements2 {
   public static void main(String[] args) {
     Scanner in = new Scanner(System.in);
 
+    //asks for input
     System.out.println("What is your age?");
+    
+    //declares  variable and scans it
     int userAge = in.nextInt();
     /*
     if (userAge > 18) { //If they're over 18, they are titled an adult
@@ -38,6 +41,6 @@ public class IfStatements2 {
       }
 
       
-
+    in.close();
   }
 }

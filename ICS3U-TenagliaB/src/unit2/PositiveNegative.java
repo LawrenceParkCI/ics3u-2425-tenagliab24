@@ -1,6 +1,6 @@
 package unit2;
 /**
- * Description: The Positive Negative assignment
+ * Description: The Positive Negative assignment <p>
  * Date: November 4, 2024
  * @author Ben Tenaglia
  */
