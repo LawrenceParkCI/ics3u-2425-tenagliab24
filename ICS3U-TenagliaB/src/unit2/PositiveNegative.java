@@ -10,14 +10,14 @@ public class PositiveNegative {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		
+
 		//declare the variable
 		int num;
-		
+
 		//get the user's input
 		System.out.println("Input any integer and press <Enter>");
 		num = sc.nextInt();
-		
+
 		//determine and display computer output
 		if (num >= 0) {
 			System.out.println("Your number is positive");
@@ -25,7 +25,7 @@ public class PositiveNegative {
 		else {
 			System.out.println("Your number is negative");
 		}
-		
+
 		if (num %7 == 0) {
 			System.out.println("Your number is divisible by 7");
 		}
