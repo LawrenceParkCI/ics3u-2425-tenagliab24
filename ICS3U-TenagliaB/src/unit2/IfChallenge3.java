@@ -3,7 +3,7 @@ package unit2;
 import java.util.Scanner;
 
 /**
- * Description: If challenge 3 quiz
+ * Description: If challenge 3 quiz <p>
  * Date: November 15, 2024
  * @author Ben Tenaglia
  */

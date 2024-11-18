@@ -3,7 +3,7 @@ package unit2;
 import java.util.Scanner;
 
 /**
- * Description: String Challenge worksheet
+ * Description: String Challenge worksheet <p>
  * Date: November 12, 2024
  * @author Ben Tenaglia
  */
