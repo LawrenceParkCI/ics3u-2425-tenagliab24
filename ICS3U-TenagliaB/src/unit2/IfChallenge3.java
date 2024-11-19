@@ -57,7 +57,7 @@ public class IfChallenge3 {
 			Thread.sleep(600);
 			System.out.println("CORRECT!!!");
 			System.out.println("Great job!");
-			points =+ 1;
+			points = points + 1;
 		}
 		else if (q1.equals("1")) {
 			System.out.println("You are...");
@@ -145,7 +145,7 @@ public class IfChallenge3 {
 			Thread.sleep(600);
 			System.out.println("CORRECT!!!");
 			System.out.println("Great job!");
-			points =+ 1;
+			points = points + 1;
 		}
 		else if (q2.equals("1")) {
 			System.out.println("You are...");
@@ -209,7 +209,7 @@ public class IfChallenge3 {
 			System.out.println("RESTART.");
 			System.exit(0);
 		}
-		
+
 		Thread.sleep(2000);
 		System.out.println("\nQuestion 3");
 		Thread.sleep(1500);
@@ -233,7 +233,7 @@ public class IfChallenge3 {
 			Thread.sleep(600);
 			System.out.println("CORRECT!!!");
 			System.out.println("Great job!");
-			points =+ 1;
+			points = points + 1;
 			if(points == 3) {
 				System.out.println("You definitely studied for this quiz.");
 			}
@@ -312,7 +312,7 @@ public class IfChallenge3 {
 			System.out.println("RESTART.");
 			System.exit(0);
 		}
-		
+
 		Thread.sleep(2000);
 		System.out.println("\n\nOkay, it is time for the results!!");
 		Thread.sleep(1200);
