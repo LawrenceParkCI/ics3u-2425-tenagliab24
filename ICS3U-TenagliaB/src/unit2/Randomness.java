@@ -18,7 +18,7 @@ public class Randomness {
 
     //Run the program a few times. What do you think is the 
     //range of the numbers generated?
-    //the range is from 0 to 1
+    //the range is from 0 to 1 exclusive
 
     //Read the demo program. Write the code so that the program 
     //will produce a random number between 100 and 1000.
