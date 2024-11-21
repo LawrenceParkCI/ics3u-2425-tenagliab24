@@ -16,13 +16,21 @@ public class NameGame {
 		 * 70% of the time the program should output that the user's name is their favourite, 
 		 * and 30% of the time says they hate that name.
 		 * */
-		int name;
 		
 		System.out.println("What is your name?");
-		name = sc.nextInt();
+		sc.nextLine();
+		
+		int name;
 		
 		name =(int)((Math.random()*10) + 1);
 		
+		if (name <= 7) {
+			System.out.println("Your name is my favourite!");
+		}
+		
+		if (name > 7) {
+			System.out.println("I hate that name");
+		}
 		sc.close();
 	}
 
