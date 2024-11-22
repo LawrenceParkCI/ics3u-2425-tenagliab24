@@ -21,7 +21,7 @@ public class While {
 			System.out.print("What is this person's name? ");
 
 			//Why do you think the variable is declared here?
-			//
+			//if it is declared inside the loop, it makes it easier
 			String name = in.nextLine();
 			System.out.println("Welcome, " + name + "!");
 
